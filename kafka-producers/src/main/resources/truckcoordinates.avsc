@@ -1,0 +1,10 @@
+{
+"namespace": "com.evolv.kafka.avro",
+"type": "record",
+"name": "TruckCoordinates",
+"fields": [
+{"name": "truckId", "type": "int"},
+{"name": "latitude", "type": "string"},
+{"name": "longitude", "type": "string"}
+]
+}
